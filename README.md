@@ -1,12 +1,22 @@
-# React + Vite
+# 🛒 E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional E-Commerce web application built using React, designed to deliver a seamless shopping experience. This project includes product listings, shopping cart functionality, secure user authentication, responsive design and a modern UI. All user and product data is managed using MongoDB Atlas.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛍️ Browse Products – View product listings with images, prices, and descriptions
 
-## Expanding the ESLint configuration
+🛒 Shopping Cart – Add or remove products from cart
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔐 User Authentication – Login, Register, Logout (with session/token-based auth)
+
+📦 Description Pge – Indivisual description page for each product
+
+📱 Responsive Design – Mobile-friendly and optimized for all devices
+
+⚛️ Single Page Application (SPA) – Built entirely using React
+
+🍃 MongoDB Atlas – Cloud-based database for users, products, and cart data
+
+## Preview
+![image alt](https://github.com/Toumik-Haque/E-Commerce/blob/3f08d75596d6e68cafc490b8c2f998db2e0e83d7/src/assets/eCommerce.png)
