@@ -8,9 +8,9 @@ A fully functional E-Commerce web application built using React, designed to del
 
 🛒 Shopping Cart – Add or remove products from cart
 
-🔐 User Authentication – Login, Register, Logout (with session/token-based auth)
+🔐 User Authentication – Login, Register, Logout (with token-based auth)
 
-📦 Description Pge – Indivisual description page for each product
+📦 Description Page – Individual description page for each product
 
 📱 Responsive Design – Mobile-friendly and optimized for all devices
 
@@ -19,4 +19,4 @@ A fully functional E-Commerce web application built using React, designed to del
 🍃 MongoDB Atlas – Cloud-based database for users, products, and cart data
 
 ## Preview
-![image alt](https://github.com/Toumik-Haque/E-Commerce/blob/3f08d75596d6e68cafc490b8c2f998db2e0e83d7/src/assets/eCommerce.png)
+![image alt](https://github.com/Toumik-Haque/E-Commerce/blob/17acc5fc1a546189dcfa4ec7184538287343d96f/src/assets/E-Commerce%20Site.png)
